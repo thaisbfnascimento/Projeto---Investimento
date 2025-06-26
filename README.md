@@ -40,7 +40,6 @@ Este projeto consiste em uma ferramenta desenvolvida no Microsoft Excel para sim
 
 ## 📁 Estrutura do Projeto
 
-📂 Projeto - Investimento
 ├── 📄 Projeto - Investimento.xlsx
 
 ├── 📄 README.md
