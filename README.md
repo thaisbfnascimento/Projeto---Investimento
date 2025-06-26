@@ -44,6 +44,7 @@ Este projeto consiste em uma ferramenta desenvolvida no Microsoft Excel para sim
 
 ├── 📄 README.md
 
+---
 
 ## ✅ Requisitos
 
